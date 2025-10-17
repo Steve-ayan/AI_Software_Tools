@@ -6,7 +6,7 @@
 **Date:** October 2025  
 
 ---
-# Live 
+# [Live URL](https://group71.streamlit.app/)
 ---
 
 ## 📘 Project Overview
