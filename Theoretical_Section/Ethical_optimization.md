@@ -1,6 +1,6 @@
 # 🤖 Ethical Reflection on the Use of AI Tools
 
-**Author:** Obinwa Ogechi Perpetual 
+**Authors:** Obinwa Ogechi Perpetual, Nwokike Onyeka
 **Course:** AI Tools and Applications  
 **Project:** Mastering the AI Toolkit  
 
