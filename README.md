@@ -1,6 +1,6 @@
 # 🧠 AI Tools Assignment – *Mastering the AI Toolkit*
 
-**Authors:** Nwokike Onyeka, Obinwa Ogechi Perpetual  
+**Authors:** Nwokike Onyeka, Obinwa Ogechi Perpetual, Stephen Ayankoso  
 **Course:** AI Tools and Applications  
 **Institution:** [Power Learn Project Academy]  
 **Date:** October 2025  
@@ -63,6 +63,14 @@ This project emphasizes **responsible AI use** — addressing bias, fairness, tr
 See the full write-up: [Ethical_Reflection.md](./Ethical_Reflection.md)
 
 ---
+
+### **MNIST CNN Result Screenshot**
+Below is the output of our trained CNN model showing predictions on test images:
+
+![MNIST Result](./screenshots/Result.png)
+
+**Figure:** The CNN model correctly predicted digits *7, 2, 1, 0,* and *4* from the MNIST test set, achieving a test accuracy of **99.01%**.
+
 
 ## 🏁 Final Notes
 
